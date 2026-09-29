@@ -1,2 +1,2 @@
-# TYWE-FE
+# spending-decider-fe
 전지적 잔고 시점 FrontEnd Repository
